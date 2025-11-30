@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MarketExecutionSystem.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63415;http://localhost:63416"
+    }
+  }
+}
